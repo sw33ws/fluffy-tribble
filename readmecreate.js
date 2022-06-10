@@ -1,26 +1,22 @@
 function createReadMe(data) {
     return `# ${data.title}
 
-
-    ## Description
+## Description
     ${data.description}
 
-    ## Table of Contents
+## Table of Contents
     -[Description](#description)
     -[Usage](#usage)
     -[Installation](#installation)
     -[Contact Info](#contact info)
 
-
-    ## Usage
+## Usage
     ${data.usage}
 
-
-    ## Installation
+## Installation
     ${data.installation}
 
-
-    ## Contact Info
+## Contact Info
     Email at ${data.email}, github username at ${data.username}`
 }
 
