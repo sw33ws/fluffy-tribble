@@ -10,7 +10,7 @@ A quick and easy readme generator
 -[ContactInfo](#contact info)
 
 ## Usage
-    type node index.js in the console, then follow the prompts
+type node index.js in the console, then follow the prompts
 
 ## Installation
 download the whole repo
