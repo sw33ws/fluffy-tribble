@@ -8,10 +8,10 @@ ${data.description}
 -[Description](#description)
 -[Usage](#usage)
 -[Installation](#installation)
--[Contact Info](#contact info)
+-[ContactInfo](#contact info)
 
 ## Usage
-    ${data.usage}
+${data.usage}
 
 ## Installation
 ${data.installation}
