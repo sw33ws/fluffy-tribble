@@ -39,6 +39,12 @@ inquirer
         message: 'Write your email here!',
         name: 'email',
       },
+      {
+        type: 'list',
+        message: 'Choice your license!',
+        name: 'license ',
+        choices: ['MIT', 'none',],
+      },
   ])
   .then((data) => {
     const filename = `${data.title.toLowerCase().split(' ').join('')}.md`;
